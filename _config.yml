@@ -1,6 +1,6 @@
 name: Book A DJ
 favicon: null
-layout_spectrum: 0.0525761682074517
+layout_spectrum: 0.10447
 typography_spectrum: 0.9936161988880485
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.7408686974085867
-  lightness: 0.978896044427529
-  saturation: 0.4433236261829734
+  brandStrength: 0.1875
+  lightness: 0.1875
+  saturation: 0.1875
   rhythmicContrast: 0.21348995435982943
 purpose: []
